@@ -52,3 +52,5 @@ Each customer has a **target service level**, and actual performance is benchmar
 To ensure all customers receive consistent and reliable service—**on time, in full**—thus restoring trust and preparing for expansion.
 
 ---
+# 📦 Data Model
+![Data Model Screenshot](E:\atliq hsptlty file\atliq_fmcg\fmcg_model)
