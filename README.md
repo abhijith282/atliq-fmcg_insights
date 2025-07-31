@@ -63,3 +63,56 @@ This page summarizes the high-level performance of **on-time**, **in-full**, and
 It is intended for management to quickly identify areas needing attention.
 
 ![Executive View Screenshot](https://github.com/user-attachments/assets/1eee0ef9-537d-4657-b3b9-d7bb747defb8)
+
+# 📚 Learnings from this Project
+🔍 Supply Chain KPIs Understanding
+- Learned to measure and interpret key performance indicators like:
+
+- OT % (On-Time Delivery)
+
+- IF % (In-Full Delivery)
+
+- OTIF % (On-Time In-Full Delivery)
+
+🔗 Data Modeling in Power BI
+- Structured fact and dimension tables using star schema and managed relationships using primary/foreign keys.
+
+🧮 DAX Measures and Calculations
+Built efficient measures using DAX functions such as:
+
+ - CALCULATE()
+
+- DIVIDE()
+
+- VAR, FILTER(), IF()
+
+📊 Dashboard Design Principles
+
+- Designed intuitive, executive-friendly dashboards.
+
+- Used KPIs, cards, and custom visuals to show service performance trends.
+
+🧠 Performance vs Target Analysis
+- Created visual comparisons of actual metrics vs targets with conditional formatting.
+
+📅 Time Intelligence Implementation
+- Used date slicers, hierarchies, and trendlines for day-wise and monthly analysis.
+
+♻️ Rolling Averages & Trends
+- Added rolling averages and moving trends to smoothen daily KPI variations.
+
+⚡ Performance Optimization
+- Optimized visual load times and model efficiency for large datasets.
+
+🧩 Modular & Scalable Design
+- Broke down reports into reusable, easy-to-navigate visual sections for scalability.
+
+
+
+
+
+
+
+
+
+
