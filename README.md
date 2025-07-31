@@ -53,4 +53,13 @@ To ensure all customers receive consistent and reliable service—**on time, in 
 
 ---
 # 📦 Data Model
-![Data Model Screenshot](E:\atliq hsptlty file\atliq_fmcg\fmcg_model)
+The data model integrates various tables such as **customer orders**, **delivery schedules**, and **product master** to derive the required KPIs.
+![Data Model](https://github.com/user-attachments/assets/5e800c94-d02b-4d87-ac53-d75488b00524)
+
+# 📈 Executive View
+
+This page summarizes the high-level performance of **on-time**, **in-full**, and **OTIF %** across key customers and locations.
+
+It is intended for management to quickly identify areas needing attention.
+
+![Executive View Screenshot](https://github.com/user-attachments/assets/1eee0ef9-537d-4657-b3b9-d7bb747defb8)
